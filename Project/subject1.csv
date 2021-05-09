@@ -1,0 +1,55 @@
+Subject_name,Year,Semester,Credit_theory,Credit_practical,Course_No,Max_marks
+Mathematics - I,1,1,3,0,BS111,100
+Mechanical Engg. - I,1,1,3,0,ME113,100
+Workshop Practice,1,1,0,1,ME114,100
+Engineering Drawing,1,1,0,1,CE115,100
+Engineering Physics,1,1,2,1,BS100P,100
+Engineering Mechanics,1,1,2,1,CE100,100
+Electrical Engg. - I,1,1,3,1,EE100,100
+Environmental Studies,1,1,2,0,ENVS100,100
+Mathematics - II,1,2,3,0,BS121,100
+Civil Engineering,1,2,1,1,CE122,100
+Machine Drawing - I,1,2,0,1,ME123,100
+Workshop Technology,1,2,2,1,ME124,100
+Engineering Chemistry ,1,2,2,1,BS100C,100
+Electronics and Instrumentation,1,2,2,1,EC100,100
+Computer programming,1,2,2,1,CS100,100
+English And Communication Skill,1,2,2,1,BS100E,100
+Mathematics III,2,1,3,0,BS211,100
+Digital Systems & Design,2,1,3,1,CS211,100
+Unix AndShell Programming Lab,2,1,0,2,CS212,100
+Object Oriented Programming with C++,2,1,3,2,CS213,100
+principals of Programming languages,2,1,3,0, CS214,100
+Electrical Measurement and instruments,2,1,3,1,EE212,100
+Analog Electronics,2,1,2,1,EC219,100
+Discrete Mathematical structure,2,2,3,0, BS222,100
+Computer Organization,2,2,3,0, CS221,100
+Data Structure,2,2,3,1,CS222,100
+Communication Systems,2,2,3,0,EC228,100
+Microprocessors,2,2,3,1,CS224,100
+System Software,2,2,3,1,CS225,100
+Theory of Computation,3,1,3,0,CS311,100
+Java Programming,3,1,3,2,CS312,100
+Data Communication And Network,3,1,3,1,CS313,100
+Computer Architecture,3,1,3,0,ICS314,100
+Database System,3,1,3,1,CS315,100
+"Pulse, Digital And Wave Shaping",3,1,3,0,EC319,100
+Principals of Compiler Design,3,2,3,1,CS321,100
+"Microprocessors, Interfaceing And Application",3,2,3,1,CS322,100
+Design And Analysis of Algorithms,3,2,3,0,CS323,100
+Comuter Networks,3,2,3,1,CS324,100
+Operating System,3,2,3,1,CS325,100
+Software Engineering,3,2,3,1,CS326,100
+Mobile Computing,4,1,3,1,CS411,100
+Advanced Database System,4,1,3,0,CS412,100
+Distributed System,4,1,3,1,CS413,100
+Elective-I,4,1,3,1,CS414,100
+Elective-II,4,1,3,1,CS415,100
+Project1,4,1,0,0,CS425,
+Multimedia System,4,2,3,1,CS421,100
+Network Programming,4,2,0,2,CS422,100
+Elective-III,4,2,3,1,CS423,100
+Elective-IV,4,2,3,1,CS424,100
+Project,4,2,0,8,CS425,100
+Practical Training & industrial Visit,4,2,0,4,CS426,100
+Seminar,4,2,0,2,CS427,100
